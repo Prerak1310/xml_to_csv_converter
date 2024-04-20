@@ -1,0 +1,23 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<employee-list>
+    <!-- emp 1 -->
+    <row>
+        <name>James</name>
+        <salary>50000</salary>
+    </row>
+
+    <row>
+        <name>Henry</name>
+        <salary>60000</salary>
+    </row>
+
+    <row>
+        <name>David</name>
+        <salary>95252</salary>
+    </row>
+
+    <row>
+        <name>Pearson</name>
+        <salary>56660</salary>
+    </row>
+</employee-list>
